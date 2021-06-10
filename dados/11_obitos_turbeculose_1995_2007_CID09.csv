@@ -1,0 +1,34 @@
+ Morbidade Hospitalar do SUS - por local de residência - Brasil
+Óbitos por Unidade da Federação e Ano processamento
+Lista Básica CID-9: Tuberculose
+Período:1995-2007
+"Unidade da Federação";"1995";"1996";"1997";"Total"
+"11 Rondônia";2;3;1;6
+"12 Acre";2;7;7;16
+"13 Amazonas";25;26;27;78
+"14 Roraima";1;3;2;6
+"15 Pará";51;36;42;129
+"17 Tocantins";6;5;1;12
+"21 Maranhão";48;39;30;117
+"22 Piauí";5;9;7;21
+"23 Ceará";22;39;22;83
+"24 Rio Grande do Norte";21;21;27;69
+"25 Paraíba";26;15;23;64
+"26 Pernambuco";40;188;116;344
+"27 Alagoas";9;15;9;33
+"28 Sergipe";-;1;-;1
+"29 Bahia";101;92;136;329
+"31 Minas Gerais";89;78;76;243
+"32 Espírito Santo";23;18;25;66
+"33 Rio de Janeiro";256;363;366;985
+"35 São Paulo";376;495;485;1356
+"41 Paraná";39;57;51;147
+"42 Santa Catarina";5;10;13;28
+"43 Rio Grande do Sul";45;49;66;160
+"50 Mato Grosso do Sul";8;6;8;22
+"51 Mato Grosso";3;1;4;8
+"52 Goiás";32;16;26;74
+"53 Distrito Federal";3;7;7;17
+"00 Ignorado/exterior";264;152;195;611
+"Total";1502;1751;1772;5025
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
