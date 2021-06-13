@@ -1,0 +1,32 @@
+ Morbidade Hospitalar do SUS - por local de residência - Brasil
+Óbitos por Unidade da Federação e Ano processamento
+Lista Morb  CID-10: Influenza [gripe]
+Período:1995-2007
+"Unidade da Federação";"1998";"1999";"2000";"2001";"2002";"2003";"2004";"2005";"2006";"2007";"Total"
+"12 Acre";-;-;-;-;1;2;1;1;1;-;6
+"13 Amazonas";1;-;-;-;10;92;162;11;4;-;280
+"15 Pará";-;1;-;-;2;3;4;8;2;5;25
+"17 Tocantins";-;-;-;-;-;15;22;18;10;5;70
+"21 Maranhão";-;-;-;-;15;82;140;118;51;5;411
+"22 Piauí";-;-;-;-;3;6;20;14;5;5;53
+"23 Ceará";-;3;-;-;44;40;87;106;129;188;597
+"24 Rio Grande do Norte";-;-;-;-;2;4;3;22;19;4;54
+"25 Paraíba";2;-;1;-;7;4;10;13;7;10;54
+"26 Pernambuco";-;-;-;-;76;16;15;1;4;6;118
+"27 Alagoas";-;1;-;-;16;24;15;16;19;14;105
+"28 Sergipe";4;-;2;-;25;11;10;3;2;2;59
+"29 Bahia";4;5;4;1;59;27;14;10;35;41;200
+"31 Minas Gerais";8;5;1;1;241;144;109;44;63;48;664
+"32 Espírito Santo";1;-;-;-;30;4;-;3;5;12;55
+"33 Rio de Janeiro";4;4;2;2;79;56;38;26;41;20;272
+"35 São Paulo";12;5;3;1;345;166;77;48;39;40;736
+"41 Paraná";14;12;-;2;102;77;57;8;6;4;282
+"42 Santa Catarina";2;-;1;-;72;33;55;29;54;57;303
+"43 Rio Grande do Sul";2;1;-;-;613;679;853;312;228;121;2809
+"50 Mato Grosso do Sul";-;-;-;-;8;41;12;11;11;10;93
+"51 Mato Grosso";5;3;-;-;1;5;1;1;6;1;23
+"52 Goiás";1;-;-;-;50;26;22;21;21;21;162
+"53 Distrito Federal";-;1;-;-;11;2;7;10;1;2;34
+"00 Ignorado/exterior";1;-;-;-;-;-;-;-;-;-;1
+"Total";61;41;14;7;1812;1559;1734;854;763;621;7466
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
